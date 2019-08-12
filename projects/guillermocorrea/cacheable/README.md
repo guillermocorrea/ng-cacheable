@@ -1,6 +1,7 @@
 # @guillermocorrea/cacheable
 
 [![Build Status](https://travis-ci.org/guillermocorrea/ng-cacheable.svg?branch=master)](https://travis-ci.org/guillermocorrea/ng-cacheable)
+[![codecov](https://codecov.io/gh/guillermocorrea/ng-cacheable/branch/master/graph/badge.svg)](https://codecov.io/gh/guillermocorrea/ng-cacheable)
 
 Angular method decorator to cache Observable results.
 
