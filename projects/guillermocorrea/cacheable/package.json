@@ -1,0 +1,25 @@
+{
+  "name": "@guillermocorrea/cacheable",
+  "version": "0.0.1",
+  "author": "Guillermo Correa (guillermo.correa.99@gmail.com)",
+  "description": "Angular method decorator to cache observable results",
+  "keywords": [
+    "angular",
+    "cache",
+    "observable",
+    "decorator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guillermocorrea/ng-cacheable.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guillermocorrea/ng-cacheable/issues"
+  },
+  "homepage": "https://github.com/guillermocorrea/ng-cacheable",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^8.2.0",
+    "@angular/core": "^8.2.0"
+  }
+}
