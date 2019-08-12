@@ -1,5 +1,7 @@
 # @guillermocorrea/cacheable
 
+[![Build Status](https://travis-ci.org/guillermocorrea/ng-cacheable.svg?branch=master)](https://travis-ci.org/guillermocorrea/ng-cacheable)
+
 Angular method decorator to cache Observable results.
 
 ## Install
