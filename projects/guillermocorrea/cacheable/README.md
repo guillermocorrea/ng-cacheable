@@ -2,9 +2,15 @@
 
 Angular method decorator to cache Observable results.
 
+## Install
+
+`npm i @guillermocorrea/cacheable`
+
 ## Example
 
 ```ts
+import {cacheable} from '@guillermocorrea/cacheable';
+
 @Injectable({
   providedIn: 'root'
 })
